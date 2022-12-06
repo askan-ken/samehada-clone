@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samehada-clone/static/css/main.4cd77319.css",
+    "main.js": "/samehada-clone/static/js/main.ea61bf50.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/samehada-clone/static/js/787.d1d4a2c2.chunk.js",
+    "index.html": "/samehada-clone/index.html",
+    "main.4cd77319.css.map": "/samehada-clone/static/css/main.4cd77319.css.map",
+    "main.ea61bf50.js.map": "/samehada-clone/static/js/main.ea61bf50.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/samehada-clone/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd77319.css",
+    "static/js/main.ea61bf50.js"
+  ]
+}
